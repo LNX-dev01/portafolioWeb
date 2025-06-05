@@ -134,7 +134,7 @@ export const EventDrawer: React.FC<EventDrawerProps> = ({ project }) => {
                           className="bg-blue-700"
                         />
                         <span className="text-small text-default-500">
-                          HeroUI Team
+                          EA.dev
                         </span>
                       </div>
                     </div>

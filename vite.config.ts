@@ -7,7 +7,7 @@ export default defineConfig({
   base: "/portafolioWeb",
   
   build: {
-    outDir: 'dist', // Asegura que el build se genere en "dist"
+    outDir: 'dist',
     chunkSizeWarningLimit: 1000,
   },
 });
